@@ -9,6 +9,7 @@ Column 5: attached file name
 Example:
 Google Form: https://forms.gle/Grp5wj9xAaAVzBBYA (Generate Google Sheet)
 Google Sheet: https://docs.google.com/spreadsheets/d/1lM7uDhCXeHW24guTrMFuctGU-f5bKAp-FeYK2o6Z6LA/edit?usp=sharing
+Google Drive: https://drive.google.com/drive/folders/1VMgXiud-gz9jVK1yasw_NVevrvFFEi59?usp=sharing
 
 Binding GoogleSheet with GoogleApp:
 In an active spreadsheet, click 'Tools' -> 'Script Editor'
