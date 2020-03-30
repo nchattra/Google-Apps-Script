@@ -44,7 +44,7 @@ function logStudentInfo() {
     Logger.log('Status: ' + emailSent);
     
     if (emailSent != EMAIL_SENT)  {  // Prevents sending duplicates  
-    var folders = DriveApp.getFoldersByName('googleapp00');
+    var folders = DriveApp.getFoldersByName('googleapp00');  // Replace 'googleapp00' with an appropriate folder name
     while(folders.hasNext()){
       Logger.log('Folder: ' + folders.next().getName());
       var files = DriveApp.getFilesByName(attachedFile+'.pdf');
