@@ -1,4 +1,6 @@
 /* Automatically send an e-mail with an attached file
+Author: Nithiwadee Thaicharoen
+
 ***Use with Google spreadsheet***
 Column 1: e-mail address
 Column 2: subject
