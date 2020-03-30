@@ -7,8 +7,8 @@ Column 4: message
 Column 5: attached file name
 
 Example:
-Google Form: https://forms.gle/L4MjZYZRoDes5vwE8 (Generate Google Sheet)
-Google Sheet: https://docs.google.com/spreadsheets/d/1IZx-mH_4E7Ql2DZOnoRYNgjqd78sOWMnZMcBFhpFrww/edit?usp=sharing
+Google Form: https://forms.gle/Grp5wj9xAaAVzBBYA (Generate Google Sheet)
+Google Sheet: https://docs.google.com/spreadsheets/d/1lM7uDhCXeHW24guTrMFuctGU-f5bKAp-FeYK2o6Z6LA/edit?usp=sharing
 
 Binding GoogleSheet with GoogleApp:
 In an active spreadsheet, click 'Tools' -> 'Script Editor'
